@@ -8,7 +8,6 @@ let games = [];
 rp(epic).then(function(html) {
 
   for (let i = 0; i < $('.Card-title_17f29aee', html).length; i++) {
-    //console.log('https://www.epicgames.com'+$('.Card-root_06ca652d', html)[i].attribs.href);
     
     let game = {};
     
@@ -17,17 +16,18 @@ rp(epic).then(function(html) {
 
     try {
 	    game.discount = $('.PurchasePrice-price_2673d650 span:first-child', html)[i].children[0].data.replace('Con ', '').replace(' de descuento', '');
-	    game.price    = $('.Price-original_573f9f14', html)[i].children[0].data.replace(' US$', '');
+	    game.price    = $('.Price-original_573f9f14', html)[i].children[0].data.replace(' US$', '').replace(',','.');
 
     } catch(e) {
       console.log(e);
     
     } finally {
+      game.store = 'epicgames'
 	    games.push(game);
     }
     
   }
-  console.log(JSON.stringify(games.sort(function(a, b) {return parseFloat(a.price) - parseFloat(b.price);}), null, 4));
+  console.log(JSON.stringify(games.sort(function(a, b) {return parseFloat(a.price) - parseFloat(b.price);}), null, 2));
 })
 
 .catch(function(err){

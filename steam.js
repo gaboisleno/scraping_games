@@ -22,11 +22,12 @@ rp(steam).then(function(html){
 	    game.price    = $('.col.search_price.responsive_secondrow', html)[i].children[0].data.replace('ARS$ ','').replace(/\./g, '').replace(',', '.').trim();
     
     } finally {
+      game.store = 'steam';
 	    games.push(game);
     }
   }
-	
-  console.log(JSON.stringify(games.sort(function(a, b) {return parseFloat(a.price) - parseFloat(b.price);}), null, 4));
+  
+  console.log(JSON.stringify(games.sort(function(a, b) {return parseFloat(a.price) - parseFloat(b.price);}), null, 2));
   
 })
 .catch(function(err){
