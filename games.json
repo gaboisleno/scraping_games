@@ -1,0 +1,314 @@
+[
+  [
+    {
+      "name": "Warhammer: Vermintide 2",
+      "link": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/?snr=1_7_7_2300_150_1",
+      "discount": "-75%",
+      "price": "82.49",
+      "store": "steam"
+    },
+    {
+      "name": "Endless Legend™",
+      "link": "https://store.steampowered.com/app/289130/Endless_Legend/?snr=1_7_7_2300_150_1",
+      "discount": "-75%",
+      "price": "82.49",
+      "store": "steam"
+    },
+    {
+      "name": "Endless Space® 2",
+      "link": "https://store.steampowered.com/app/392110/Endless_Space_2/?snr=1_7_7_2300_150_1",
+      "discount": "-75%",
+      "price": "109.99",
+      "store": "steam"
+    },
+    {
+      "name": "Slay the Spire",
+      "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/?snr=1_7_7_2300_150_1",
+      "discount": "-50%",
+      "price": "139.99",
+      "store": "steam"
+    },
+    {
+      "name": "Sid Meier’s Civilization® VI",
+      "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+      "discount": "-75%",
+      "price": "143.99",
+      "store": "steam"
+    },
+    {
+      "name": "Unheard",
+      "link": "https://store.steampowered.com/app/942970/Unheard/?snr=1_7_7_2300_150_1",
+      "discount": "-40%",
+      "price": "150.00",
+      "store": "steam"
+    },
+    {
+      "name": "Arma 3",
+      "link": "https://store.steampowered.com/app/107410/Arma_3/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "164.99",
+      "store": "steam"
+    },
+    {
+      "name": "A Hat in Time",
+      "link": "https://store.steampowered.com/app/253230/A_Hat_in_Time/?snr=1_7_7_2300_150_1",
+      "discount": "-50%",
+      "price": "164.99",
+      "store": "steam"
+    },
+    {
+      "name": "Forager",
+      "link": "https://store.steampowered.com/app/751780/Forager/?snr=1_7_7_2300_150_1",
+      "discount": "-25%",
+      "price": "168.74",
+      "store": "steam"
+    },
+    {
+      "name": "Sid Meier’s Civilization® VI: Rise and Fall",
+      "link": "https://store.steampowered.com/app/645402/Sid_Meiers_Civilization_VI_Rise_and_Fall/?snr=1_7_7_2300_150_1",
+      "discount": "-50%",
+      "price": "179.99",
+      "store": "steam"
+    },
+    {
+      "name": "Ni no Kuni™ II: Revenant Kingdom",
+      "link": "https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "194.99",
+      "store": "steam"
+    },
+    {
+      "name": "Unheard疑案追声 本体+DLC合集包（Chinese Version）",
+      "link": "https://store.steampowered.com/bundle/13175/Unheard_DLCChinese_Version/?snr=1_7_7_2300_150_1",
+      "discount": "-41%",
+      "price": "195.43",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin’s Creed® IV Black Flag™",
+      "link": "https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/?snr=1_7_7_2300_150_1",
+      "discount": "-66%",
+      "price": "237.66",
+      "store": "steam"
+    },
+    {
+      "name": "Frostpunk: Season Pass",
+      "link": "https://store.steampowered.com/bundle/11780/Frostpunk_Season_Pass/?snr=1_7_7_2300_150_1",
+      "discount": "-30%",
+      "price": "299.57",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin's Creed® Unity",
+      "link": "https://store.steampowered.com/app/289650/Assassins_Creed_Unity/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "299.70",
+      "store": "steam"
+    },
+    {
+      "name": "Sid Meier's Civilization® VI: Gathering Storm",
+      "link": "https://store.steampowered.com/app/947510/Sid_Meiers_Civilization_VI_Gathering_Storm/?snr=1_7_7_2300_150_1",
+      "discount": "-25%",
+      "price": "323.99",
+      "store": "steam"
+    },
+    {
+      "name": "Ys VIII: Lacrimosa of DANA",
+      "link": "https://store.steampowered.com/app/579180/Ys_VIII_Lacrimosa_of_DANA/?snr=1_7_7_2300_150_1",
+      "discount": "-50%",
+      "price": "324.99",
+      "store": "steam"
+    },
+    {
+      "name": "Endless Space® 2 Collection",
+      "link": "https://store.steampowered.com/bundle/13261/Endless_Space_2_Collection/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "339.26",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin's Creed® Syndicate",
+      "link": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "449.70",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin's Creed® Odyssey",
+      "link": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_2300_150_1",
+      "discount": "-60%",
+      "price": "479.60",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin's Creed® Origins",
+      "link": "https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_2300_150_1",
+      "discount": "-75%",
+      "price": "574.75",
+      "store": "steam"
+    },
+    {
+      "name": "Sid Meier's Civilization VI : Platinum Edition",
+      "link": "https://store.steampowered.com/bundle/12218/Sid_Meiers_Civilization_VI__Platinum_Edition/?snr=1_7_7_2300_150_1",
+      "discount": "-70%",
+      "price": "579.47",
+      "store": "steam"
+    },
+    {
+      "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+      "link": "https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/?snr=1_7_7_2300_150_1",
+      "discount": "-40%",
+      "price": "899.40",
+      "store": "steam"
+    },
+    {
+      "name": "Arma 3 Ultimate Edition",
+      "link": "https://store.steampowered.com/bundle/11256/Arma_3_Ultimate_Edition/?snr=1_7_7_2300_150_1",
+      "discount": "-62%",
+      "price": "1042.90",
+      "store": "steam"
+    },
+    {
+      "name": "Assassin's Creed Bundle",
+      "link": "https://store.steampowered.com/bundle/757/Assassins_Creed_Bundle/?snr=1_7_7_2300_150_1",
+      "discount": "-72%",
+      "price": "1095.95",
+      "store": "steam"
+    }
+  ],
+  [
+    {
+      "name": "Afterparty",
+      "link": "https://www.epicgames.com/store/es-ES/product/afterparty/home",
+      "discount": "4,99 US$",
+      "price": "4.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Superliminal",
+      "link": "https://www.epicgames.com/store/es-ES/product/superliminal/home",
+      "discount": "4,99 US$",
+      "price": "4.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Metro: Last Light Redux",
+      "link": "https://www.epicgames.com/store/es-ES/product/metro-last-light-redux",
+      "discount": "5,99 US$",
+      "price": "5.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Slime Rancher",
+      "link": "https://www.epicgames.com/store/es-ES/product/slime-rancher/home",
+      "discount": "5,99 US$",
+      "price": "5.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Rebel Galaxy Outlaw",
+      "link": "https://www.epicgames.com/store/es-ES/product/rebel-galaxy-outlaw/home",
+      "discount": "7,99 US$",
+      "price": "7.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Rune II",
+      "link": "https://www.epicgames.com/store/es-ES/product/rune-2/home",
+      "discount": "7,99 US$",
+      "price": "7.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Close to the Sun",
+      "link": "https://www.epicgames.com/store/es-ES/product/close-to-the-sun/home",
+      "discount": "8,99 US$",
+      "price": "8.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "The Walking Dead: The Telltale Definitive Series",
+      "link": "https://www.epicgames.com/store/es-ES/product/walking-dead-definitive-series/home",
+      "discount": "12,99 US$",
+      "price": "12.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Control",
+      "link": "https://www.epicgames.com/store/es-ES/product/control/home",
+      "discount": "14,99 US$",
+      "price": "14.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Star Wars Jedi: Fallen Order",
+      "link": "https://www.epicgames.com/store/es-ES/product/star-wars-jedi-fallen-order/home",
+      "discount": "14,99 US$",
+      "price": "14.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "The Sinking City",
+      "link": "https://www.epicgames.com/store/es-ES/product/the-sinking-city/home",
+      "discount": "14,99 US$",
+      "price": "14.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "World War Z",
+      "link": "https://www.epicgames.com/store/es-ES/product/world-war-z/home",
+      "discount": "18,99 US$",
+      "price": "18.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Outward",
+      "link": "https://www.epicgames.com/store/es-ES/product/outward/home",
+      "discount": "19,99 US$",
+      "price": "19.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Metro Exodus",
+      "link": "https://www.epicgames.com/store/es-ES/product/metro-exodus/home",
+      "discount": "24,99 US$",
+      "price": "24.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Ancestors The Humankind Odyssey",
+      "link": "https://www.epicgames.com/store/es-ES/product/ancestors/home",
+      "discount": "29,99 US$",
+      "price": "29.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Borderlands 3",
+      "link": "https://www.epicgames.com/store/es-ES/product/borderlands-3/home",
+      "discount": "44,99 US$",
+      "price": "44.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "The Outer Worlds",
+      "link": "https://www.epicgames.com/store/es-ES/product/the-outer-worlds/home",
+      "discount": "44,99 US$",
+      "price": "44.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "link": "https://www.epicgames.com/store/es-ES/product/red-dead-redemption-2/home",
+      "discount": "44,99 US$",
+      "price": "44.99",
+      "store": "epicgames"
+    },
+    {
+      "name": "Tom Clancy's Ghost Recon Breakpoint",
+      "link": "https://www.epicgames.com/store/es-ES/product/ghost-recon-breakpoint/home",
+      "discount": "51,99 US$",
+      "price": "51.99",
+      "store": "epicgames"
+    }
+  ]
+]
