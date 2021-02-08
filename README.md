@@ -2,6 +2,7 @@
 Steam and Gog works fine
 
 #How to use
+
 ``npm install``
 
 ``node steam.js``
